@@ -43,7 +43,7 @@ weeks:
     module: automation
     topic: Configuration management & Ansible basics
     activity: Lecture & hands-on lab
-    lecture: null
+    lecture: lectures/07-ansible-basics/slides.md
     lab_due: null
   - week: 8
     module: automation
