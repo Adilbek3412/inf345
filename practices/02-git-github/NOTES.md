@@ -4,4 +4,4 @@
 Git add кладёт изменения в staging area, а commit сохраняет их в историю.
 
 ## A command I want to remember
-(replace this line with an actual command and when you'd use it)
+git status — смотреть, какие файлы изменены и что уже в staging.
